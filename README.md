@@ -1,7 +1,4 @@
-# BigData
-
-
-Let’s get started:
+# Terms to know in BigData
 
 ## Algorithm: 
   A mathematical formula or statistical process used to perform an analysis of data. How is ‘Algorithm’ related to Big Data? Even though algorithm is a generic term, Big Data analytics made the term contemporary and more popular.
@@ -52,5 +49,5 @@ Can anyone think of any worse name for a programming language? Yes, ‘R’ is a
 Apache Spark is a fast, in-memory data processing engine to efficiently execute streaming, machine learning or SQL workloads that require fast iterative access to datasets. Spark is generally a lot faster than MapReduce that we discussed earlier.
 ## Stream processing: 
 Stream processing is designed to act on real-time and streaming data with “continuous” queries. Combined with streaming analytics i.e. the ability to continuously calculate mathematical or statistical analytics on the fly within the stream, stream processing solutions are designed to handle very high volume in real time.
-## Structured v Unstructured Data: ## 
+## Structured v Unstructured Data:
 This is one of the ‘V’s of Big Data i.e.Variety. Structured data is basically anything than can be put into relational databases and organized in such a way that it relates to other data via tables. Unstructured data is everything that can’t – email messages, social media posts and recorded human speech etc.
